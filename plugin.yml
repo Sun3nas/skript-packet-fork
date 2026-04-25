@@ -1,0 +1,11 @@
+name: Skript-Packet
+author: Anarchick
+description: A skript addon for packets
+version: '3.0.0-patched-protocollib'
+api-version: 1.13
+main: fr.anarchick.skriptpacket.SkriptPacket
+depend: [Skript, ProtocolLib]
+softdepend: [skript-reflect]
+website: www.github.com/Anarchick/skript-packet
+libraries:
+  - org.json:json:20210307
