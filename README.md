@@ -4,6 +4,8 @@ Unofficial compatibility patch for **Skript-Packet 3.0.0**, made to support newe
 
 Original addon by **Anarchick**.
 
+Tested with **Skript 2.15.0** and the **latest ProtocolLib development build**.
+
 ---
 
 ## What was the problem?
@@ -66,11 +68,7 @@ It only fixes the known ProtocolLib method signature issue. Other issues caused 
 
 ## Installation
 
-1. Stop your server.
-2. Remove the old `Skript-Packet-3.0.0.jar`.
-3. Add this patched version to your `plugins` folder.
-4. Make sure ProtocolLib is installed. `https://github.com/dmulloy2/ProtocolLib/releases/tag/dev-build`
-5. Start the server and check the console.
+Make sure you have latest ProtocolLib is installed. `https://github.com/dmulloy2/ProtocolLib/releases/tag/dev-build`
 
 ---
 
